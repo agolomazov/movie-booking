@@ -4,4 +4,4 @@
 
 ### Демо пример
 
-Демонстрационный пример вы можете увидеть по [данной ссылке](https://agolomazov.github.io/form-validation-app/)
+Демонстрационный пример вы можете увидеть по [данной ссылке](https://agolomazov.github.io/movie-booking/)
